@@ -11,8 +11,7 @@
 
 - 💬 About Me **I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nj5MN1fCGiFKrouoZOEVNQ-5Zk5psvQy/view?usp=share_link](https://drive.google.com/file/d/1nj5MN1fCGiFKrouoZOEVNQ-5Zk5psvQy/view?usp=share_link)
-
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1nj5MN1fCGiFKrouoZOEVNQ-5Zk5psvQy/view?usp=share_link">Resume</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sowjanya nageswar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowjanya nageswar" height="30" width="40" /></a>
