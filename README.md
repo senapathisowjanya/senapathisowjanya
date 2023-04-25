@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)](https://senapathisowjanya.github.io)
 
 <h1 align="center">Hi 👋, I'm Sowjanya Senapathi</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
