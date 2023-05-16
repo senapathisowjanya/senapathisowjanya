@@ -17,7 +17,7 @@
  -->
  
 
-<p align="center" style=' width:"90%"; margin: auto; padding: 30px; > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senapathisowjanya" alt="senapathisowjanya" /></a> </p>
+<p align="center" style=' width:"90%"; margin: auto; padding: 30px; margin:1px solid black;> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senapathisowjanya" alt="senapathisowjanya" /></a> </p>
                          
                          
 
