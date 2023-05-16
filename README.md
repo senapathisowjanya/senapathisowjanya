@@ -6,11 +6,11 @@
 
 
 
-<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
+<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://www.outsourcinghubindia.com/wp-content/uploads/2021/03/accountant_1.png" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
 
 <div style='display: flex; justify-content: space-around; '  >
 <div align="left" style="padding-top: 20px;text-align: center;" >
-<h1 align="center" margin='20px' >Hello <img src="" width="30px" height="30px">, I'm Sowjanya Senapathi </h1>
+<h1 align="center" margin='20px' >Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Sowjanya Senapathi </h1>
 <h3 align="center" margin='20px' >A passionate and aspiring Full Stack developer </h3>
 <p align="center" style="width: 30px; margin-left: 30%; margin-top: 30px;"    > <img style="width: 150px;" src="https://komarev.com/ghpvc/?username=senapathisowjanya&label=Profile%20views&color=0e75b6&style=flat" alt="senapathisowjanya" /> </p>
 
