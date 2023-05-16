@@ -13,8 +13,8 @@
     </div>
 
 
-<img width="90%" height="180px" margin="'auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0c696763393359.5ab4ecb5ec40c.gif" alt="">
-
+<!-- <img width="90%" height="180px" margin="'auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0c696763393359.5ab4ecb5ec40c.gif" alt="">
+ -->
  
 
 <p align="center" style=' width:"90%"; margin: auto; padding: 30px; > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senapathisowjanya" alt="senapathisowjanya" /></a> </p>
