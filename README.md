@@ -18,6 +18,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senapathisowjanya&label=Profile%20views&color=0e75b6&style=flat" alt="senapathisowjanya" /> </p>
 
 <p align="center" style=' width:"90%"; margin: auto; padding: 30px; > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senapathisowjanya" alt="senapathisowjanya" /></a> </p>
+                         
+                         
 
 - 🔭 I’m currently pursing **Full Stack Web Developement**
 
