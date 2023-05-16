@@ -10,7 +10,7 @@
 
 <div style='display: flex; justify-content: space-around; '  >
 <div align="left" style="padding-top: 20px;text-align: center;" >
-<h1 align="center" margin='20px' >Hello <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="30px" height="30px">, I'm Sowjanya Senapathi </h1>
+<h1 align="center" margin='20px' >Hello <img src="" width="30px" height="30px">, I'm Sowjanya Senapathi </h1>
 <h3 align="center" margin='20px' >A passionate and aspiring Full Stack developer </h3>
 <p align="center" style="width: 30px; margin-left: 30%; margin-top: 30px;"    > <img style="width: 150px;" src="https://komarev.com/ghpvc/?username=senapathisowjanya&label=Profile%20views&color=0e75b6&style=flat" alt="senapathisowjanya" /> </p>
 
