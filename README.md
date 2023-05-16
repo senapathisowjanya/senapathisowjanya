@@ -7,7 +7,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Sowjanya Senapathi</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senapathisowjanya&label=Profile%20views&color=0e75b6&style=flat" alt="senapathisowjanya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=senapathisowjanya&label=Profile%20views&color=0e75b6&style=flat" alt="senapathisowjanya" /> </p>
 <div align="center" style="padding: 15px 20px;">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&weight=800&size=29&pause=1000&color=2196F3&background=82FF4A00&width=435&lines=I'm+a+Full+Stack+Web+Dev.;Hope+to+get+in+touch+" alt="Typing SVG" /></a>
     </div>
