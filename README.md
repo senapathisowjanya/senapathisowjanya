@@ -1,3 +1,6 @@
+<div align="center" style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://www.bing.com/th/id/OGC.bfe7c3ec69bf379f62a5de6a34acdc5d?pid=1.7&rurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1400%2f1*qdAW1TjCN57h1lbuuzvchg.gif&ehk=w7OIa913DGrDOfbARBfao2orIGNsejbu%2fLu1qfTbQcM%3d" width="70%" style=" margin='auto'; height="250px"; padding='60px'" / ></div>
+
+
 [![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)](https://senapathisowjanya.github.io)
 
 <h1 align="center">Hi 👋, I'm Sowjanya Senapathi</h1>
