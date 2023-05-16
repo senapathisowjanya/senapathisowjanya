@@ -48,7 +48,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style=' width:"90%"; margin: auto; padding: 23px;display: flex; gap: 18px; '>
-<a href="https://github.com/senapathisowjanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sowjanya" height="30" width="40" /></a>
+<!-- <a href="https://github.com/senapathisowjanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sowjanya" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/sowjanya-nageswar-b73533263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowjanya" height="30" width="40" /></a>
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="senapathisowjanya" height="30" width="40" /></a> -->
 </p>
