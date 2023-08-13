@@ -42,7 +42,7 @@
 - 📫 How to reach me **sowjanyanageswar9@gmail.com**
 
 - 🫠 Know more about me **https://senapathisowjanya.github.io/**
-- My Resume **https://drive.google.com/file/d/1nj5MN1fCGiFKrouoZOEVNQ-5Zk5psvQy/view?usp=share_link**
+- My Resume **https://drive.google.com/file/d/1zJRzFZ3MP-n6FJOWA4R22rYOQ1O4MBhv/view?usp=sharing**
 
 
 
