@@ -70,10 +70,7 @@
 
 <div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senapathisowjanya&" alt="senapathisowjanya"  /></p></div>
 
-  <div style="display: flex; flex-direction:"row"; align-items: center; justify-content: center;" width="100%">
-        <img style="display:'block';" src="https://github-readme-stats.vercel.app/api?username=senapathisowjanya&show_icons=true&bg_color=00000000" alt='' />
-        <img style="display:'block';" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senapathisowjanya&layout=compact" height="175px"  alt=''/>
-  </div>
+  
 
 
 
