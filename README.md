@@ -65,10 +65,10 @@
 
 <div h='5cm'><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt=""></div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=senapathisowjanya&theme=dark" alt="sowjanya" />
+<img src="" alt="sowjanya" />
 
 
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senapathisowjanya&" alt="senapathisowjanya"  /></p></div>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senapathisowjanya&theme=dark" alt="senapathisowjanya"  /></p></div>
 
   
 <div style="display: flex; flex-direction:"row"; align-items: center; justify-content: center;" width="100%">
