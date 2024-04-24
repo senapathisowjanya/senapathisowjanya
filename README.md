@@ -73,7 +73,7 @@
   
 <div style="display: flex; flex-direction:"row"; align-items: center; justify-content: center;" width="100%">
         <img style="display:'block';" src="https://github-readme-stats.vercel.app/api?username=senapathisowjanya&count_private=true&show_icons=true&theme=radical" alt='' />
-        <img style="display:'block';" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senapathisowjanya&show_icons=true&theme=radical" height="195px" width="650px"  alt=''/>
+        <img style="display:'block';" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senapathisowjanya&show_icons=true&theme=radical" height="195px"  alt=''/>
   </div>
 
 
