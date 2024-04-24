@@ -65,7 +65,7 @@
 
 <div h='5cm'><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt=""></div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="sowjanya" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=senapathisowjanya&theme=dark" alt="sowjanya" />
 
 
 <div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senapathisowjanya&" alt="senapathisowjanya"  /></p></div>
