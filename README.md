@@ -33,7 +33,7 @@
 
 <p align="center" style=' width:"90%"; margin: auto; padding: 30px; '> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senapathisowjanya" alt="senapathisowjanya" /></a> </p>
 
-- 🧠 I’m currently learning **Node.js**
+- 🧠 I'm a full stack developer with a passion for building great user experiences and scalable software solutions.
 
 - 👯 I’m looking to collaborate on Projects.
 
